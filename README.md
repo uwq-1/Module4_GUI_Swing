@@ -6,6 +6,4 @@ Convert values (Default rates)
 - CAN : 97.50
 - EURO : 164.33
 
-  ## Demo video
 
-[![Preview video](/Demo/Demo_Convert_re_video(2-handbrake).mp4)]
